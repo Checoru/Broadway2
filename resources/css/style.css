@@ -1,3 +1,35 @@
 .banner{
   background-image: url(/Users/sergioru/Documents/PROYECTOS/Coding/Proyectos/BroadwayDes/resources/images/building.png);
+  text-align: center;
+  color: white;
+}
+h1{
+  font-size: 60px;
+  font-weight: bold;
+}
+h4{
+  text-align: center;
+  text-decoration: underline;
+}
+h3{
+  font-size: 30px;
+}
+.process{
+  text-align: center;
+}
+.banner2{
+  background-image: url(/Users/sergioru/Documents/PROYECTOS/Coding/Proyectos/BroadwayDes/resources/images/building.png);
+  text-align: center;
+  color: white;
+}
+.desing{
+  text-align: center;
+}
+.brand{
+  background-color: brown;
+  color: white;
+  font-weight: bold;
+}
+.home{
+  text-decoration: underline;
 }
